@@ -8,8 +8,10 @@ We’ll use:
 	•	multiple entry points
 	•	shared utility functions
 
+```
 vuln_app/
 ├── app.py
 ├── handlers.py
 ├── utils.py
 ├── executor.py
+```
